@@ -1,10 +1,12 @@
 {
   "name": "jest-test-toggler",
   "main": "./lib/jest-test-toggler",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Toggle between jest tests and test subject files.",
   "keywords": [
-    "jest", "test", "toggle"
+    "jest",
+    "test",
+    "toggle"
   ],
   "activationCommands": {
     "atom-workspace": "jest-test-toggler:toggle"
@@ -14,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
