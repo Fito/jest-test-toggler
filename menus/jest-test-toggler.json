@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Jest Spec",
+        "command": "jest-test-toggler:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jest-test-toggler",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jest-test-toggler:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

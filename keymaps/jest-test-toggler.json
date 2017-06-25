@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "alt-cmd-o": "jest-test-toggler:toggle"
+  }
+}
